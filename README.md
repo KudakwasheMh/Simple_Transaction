@@ -1,4 +1,4 @@
-<h1>SImple Transaction WEb Application</h1>
+<h1>SImple Transaction Web Application</h1>
 <h2>Introduction</h2>
 <p>This is a web application used to for simple transactions. I utilized HTML for the interface, CSS for styling and Javascript for dynamic functionality.</p>
 <br>
