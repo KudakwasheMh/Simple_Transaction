@@ -1,0 +1,19 @@
+body {
+    padding: 20px;
+}
+.cont{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    border: solid 2px blue;
+    border-radius: 5%;
+    width: 50%;
+    box-shadow: 1px 3px 9px 3px rgba(0,0,252,0.42);
+}
+
+.cont:hover{
+    box-shadow: 1px 10px 24px 8px rgba(0,0,252,0.42);
+    width: 55%;
+}
